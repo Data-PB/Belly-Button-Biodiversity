@@ -104,5 +104,5 @@ function optionChanged(newSample) {
   buildMetadata(newSample);
 }
 
-// Initialize the dashboard
+// Initialize the dashboard 
 init();
