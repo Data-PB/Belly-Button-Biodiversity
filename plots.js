@@ -32,7 +32,7 @@ function buildCharts(sample) {
     var otu_labels = result.otu_labels;
     var sample_values = result.sample_values;
 
-    // Build a Bubble Chart
+    // Build a Bubble Chart 
     var bubbleLayout = {
       title: "Bacteria Cultures Per Sample",
       margin: { t: 0 },
